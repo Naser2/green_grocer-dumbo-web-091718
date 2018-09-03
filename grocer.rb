@@ -130,7 +130,7 @@ end
 # end
 
 
-#  ******* ----------- S
+#  ******* ----------- LA Solu
 # def consolidate_cart(cart)
 #   result = Hash.new
 
